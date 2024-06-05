@@ -1,3 +1,4 @@
 [submodule "logger"]
 	path = lib/logger
 	url = https://github.com/AlejoGrecoPump/build-system-example.git
+	branch = main
