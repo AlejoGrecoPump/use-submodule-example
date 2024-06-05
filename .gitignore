@@ -28,6 +28,12 @@
 *.so.*
 *.dylib
 
+# cmake output
+build
+
+# ide
+.vscode
+
 # Executables
 *.exe
 *.out
